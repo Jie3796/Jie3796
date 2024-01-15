@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jie3796.
-- 👀 I’m interested in web development.
+- 👋 Hi, I’m Jie Chang.
+- 👀 I’m interested in web development and data analysis.
 - 🌱 I’m currently learning wordpress and webflow.
 - 💞️ I’m looking to collaborate on web project.
 - 📫 Contact me at changjie434318@gmail.com
